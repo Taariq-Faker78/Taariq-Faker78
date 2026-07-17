@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Im Taariq
 I'm a web designer and app developer based in South Africa
 
 I have a passion for creating modern, user-friendly digital experiences. I enjoy both web design and software development, and I'm currently working toward a career in Cloud DevOps.
