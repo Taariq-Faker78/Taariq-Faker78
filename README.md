@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# Im Taariq, a web designer and App Developer based in South Africa.
+ Im Taariq, a web designer and App Developer based in South Africa.
 
-# I'm passionate about cloud computing, DevOps, and automation, and I'm working toward a career in Cloud DevOp.
+ I'm passionate about cloud computing, DevOps, and automation, and I'm working toward a career in Cloud DevOp.
 
-# My main tech stack is html , C# , React and typescript. My favourite tool design tool to use is Figma.
+ My main tech stack is html , C# , React and typescript. My favourite tool design tool to use is Figma.
 
 # 🌱 Currently Learning
 - AWS Cloud
