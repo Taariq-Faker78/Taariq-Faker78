@@ -10,6 +10,9 @@ My main tech stack includes HTML, C#, React, and TypeScript, and my favorite des
 
 This GitHub is where I document my learning journey, share personal projects, and explore technologies such as AWS, Linux, Docker, Python, networking, and automation as I continue building my cloud and DevOps skills.
 
+# Digital Portfolio 
+http://www.taariqfaker.co.za/ 
+
 # 🌱 Currently Learning
 - AWS Cloud
 - Linux
